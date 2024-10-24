@@ -9,6 +9,7 @@ Hello, my name is Kobe, and I'm a dynamic tech professional with a strong backgr
 With that in mind, welcome to my GitHub page where I put my personal and professional coding projects. I hope that we collaborate soon.
 <br/>
 
+- 🌱 I’m currently refreshing my Web Development skills, especially in **React.js** and **Laravel**
 - 💼 Look at my portfolio at [https://kobyabyab.vercel.app/](https://kobyabyab.vercel.app/)
 - 🎓 I hold a degree in **Bachelor of Science in Information Technology**
 -  📍 Located in the **Philippines**
@@ -62,8 +63,6 @@ style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/ic
 ### GitHub
 
 <img alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeyabyab&theme=default" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codeyabyab" alt="codeyabyab" />
 
 ### Codewars
 
