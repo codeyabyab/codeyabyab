@@ -1,15 +1,17 @@
-# Kobe Bryan Cayabyab
+# Codeyabyab
 
 **`Tech Professional (Web Developer | Data Entry Specialist)`**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeyabyab&label=Profile%20views&color=0e75b6&style=flat" alt="codeyabyab" /> </p>
 
-Hello, I'm a dynamic tech professional with a strong background in web development and back-office operations. I'm very passionate about contributing to innovative projects and initiatives that push the boundaries of technology.
+Hello, my name is Kobe, and I'm a dynamic tech professional with a strong background in web development and back-office operations. I'm very passionate about contributing to innovative projects and initiatives that push the boundaries of technology. 
+
+With that in mind, welcome to my GitHub page where I put my personal and professional coding projects. I hope that we collaborate soon.
+<br/>
 
 - 💼 Look at my portfolio at [https://kobyabyab.vercel.app/](https://kobyabyab.vercel.app/)
 - 🎓 I hold a degree in **Bachelor of Science in Information Technology**
-- 💞️ I’m not looking to collaborate on a project, just yet.
-- 📍 **Philippines**
+-  📍 Located in the **Philippines**
 
 ## 👨‍💻 Languages:
 
