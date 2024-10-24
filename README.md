@@ -64,6 +64,8 @@ style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/ic
 
 <img alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeyabyab&theme=default" />
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codeyabyab" alt="codeyabyab" />
+
 ### Codewars
 
 <img alt="Codewars Stats" src="https://www.codewars.com/users/codeyabyab/badges/large" />
