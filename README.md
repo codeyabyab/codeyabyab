@@ -1,18 +1,15 @@
 # Codeyabyab
 
-**`Tech Professional (Web Developer | Data Entry Specialist)`**
+**`Tech Professional (Data Annotation and Data Entry Specialist | Web Development Hobbyist)`**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codeyabyab&label=Profile%20views&color=0e75b6&style=flat" alt="codeyabyab" /> </p>
-
-Hello, my name is Kobe, and I'm a dynamic tech professional with a strong background in web development and back-office operations. I'm very passionate about contributing to innovative projects and initiatives that push the boundaries of technology. 
+Hello, my name is Kobe, and I'm a dynamic tech professional with a strong background in data annotation, artificial intelligence and back-office operations. I'm very passionate about contributing to innovative projects and initiatives that push the boundaries of technology. 
 
 With that in mind, welcome to my GitHub page where I put my personal and professional coding projects. I hope that we collaborate soon.
 <br/>
 
 - 🌱 I’m currently refreshing my Web Development skills, especially in **React.js** and **Laravel**
 - 💼 Look at my portfolio at [https://kobyabyab.vercel.app/](https://kobyabyab.vercel.app/)
-- 🎓 I hold a degree in **Bachelor of Science in Information Technology**
--  📍 Located in the **Philippines**
+
 
 ## 👨‍💻 Languages:
 
@@ -66,17 +63,11 @@ style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/ic
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeyabyab" alt="codeyabyab" />
 
-### Codewars
-
-<img alt="Codewars Stats" src="https://www.codewars.com/users/codeyabyab/badges/large" />
-
 <br/>
 
 ## 📫 Connect with me:
 
 - Linkedin : <https://linkedin.com/in/codeyabyab/>
-- Codewars: <https://www.codewars.com/users/codeyabyab>
-- Email : [kobyabyab@gmail.com](mailto:kobyabyab@gmail.com)
 
 <!---
 codeyabyab/codeyabyab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
