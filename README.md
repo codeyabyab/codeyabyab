@@ -1,6 +1,6 @@
 # Codeyabyab
 
-**`Tech Professional (Data Annotation and Data Entry Specialist | Web Development Hobbyist)`**
+**`Tech Professional (AI Quality Assurance and Back-Office Operations Specialist | Software Development Hobbyist)`**
 
 Hello, my name is Kobe, and I'm a dynamic tech professional with a strong background in data annotation, artificial intelligence and back-office operations. I'm very passionate about contributing to innovative projects and initiatives that push the boundaries of technology. 
 
