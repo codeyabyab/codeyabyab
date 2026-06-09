@@ -1,8 +1,8 @@
 # Codeyabyab
 
-**`Tech Professional (AI Quality Assurance and Back-Office Operations Specialist | Software Development Hobbyist)`**
+**`Tech Professional (AI Quality Assurance and Back-Office Operations Specialist | Web Development Hobbyist)`**
 
-Hello, my name is Kobe, and I'm a dynamic tech professional with a strong background in data annotation, artificial intelligence and back-office operations. I'm very passionate about contributing to innovative projects and initiatives that push the boundaries of technology. 
+Hello, I'm a tech professional with 3+ years' worth of work experience in data annotation, social media content evaluation, and back-office operations alongside a passion for artificial intelligence (AI) and web development. I'm very passionate about contributing to innovative projects and initiatives that push the boundaries of technology. 
 
 With that in mind, welcome to my GitHub page where I put my personal and professional coding projects. I hope that we collaborate soon.
 <br/>
