@@ -1,6 +1,6 @@
 # Codeyabyab
 
-**`Tech Professional (AI Quality Assurance and Back-Office Operations Specialist | Web Development Hobbyist)`**
+**`AI Operations & Data Specialist | Back-Office Operations Professional | Web Development Hobbyist`**
 
 Hello, I'm a tech professional with 3+ years' worth of work experience in data annotation, social media content evaluation, and back-office operations alongside a passion for artificial intelligence (AI) and web development. I'm very passionate about contributing to innovative projects and initiatives that push the boundaries of technology. 
 
