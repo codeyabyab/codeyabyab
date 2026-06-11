@@ -7,7 +7,7 @@ Hello, I'm a tech professional with 3+ years' worth of work experience in data a
 With that in mind, welcome to my GitHub page where I put my personal and professional coding projects. I hope that we collaborate soon.
 <br/>
 
-- 🌱 I’m currently refreshing my Web Development skills, especially in **React.js** and **Laravel**
+- 🌱 I’m currently expanding this GitHub page with useful and interesting projects for educational purposes and career advancement.
 - 💼 Look at my portfolio at [https://kobyabyab.vercel.app/](https://kobyabyab.vercel.app/)
 
 
