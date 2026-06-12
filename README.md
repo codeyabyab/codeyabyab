@@ -11,9 +11,9 @@ With that in mind, welcome to my GitHub page where I put my personal and profess
 - 💼 Look at my portfolio at [https://kobyabyab.vercel.app/](https://kobyabyab.vercel.app/)
 
 
-## 👨‍💻 Languages:
+## 👨‍💻 Tech Stack
 
-### Front-end Technologies
+### Frontend Languages & Frameworks
 
 <p align="left">
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -27,7 +27,7 @@ With that in mind, welcome to my GitHub page where I put my personal and profess
 </p>
 </br>
 
-### Back-end Technologies
+### Backend Languages & Frameworks
 
 <p align="left">
 <img align="left" alt="PHP" width="30px" 
