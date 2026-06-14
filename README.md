@@ -55,7 +55,7 @@ style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/ic
 </p>
 </br>
 
-## 📊 Stats:
+## 📊 Stats and Progression
 
 ### GitHub
 
