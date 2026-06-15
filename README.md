@@ -57,15 +57,13 @@ style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/ic
 
 ## 📊 Stats and Progression
 
-### GitHub
-
 <img alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeyabyab&theme=default" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeyabyab" alt="codeyabyab" />
 
 <br/>
 
-## 📫 Connect with me:
+## 📫 Professional Inquiries
 
 - Linkedin : <https://linkedin.com/in/codeyabyab/>
 
