@@ -14,9 +14,8 @@ With that in mind, welcome to my GitHub page where I put my personal and profess
 
 ## 👨‍💻 Tech Stack
 
-### Frontend Languages & Frameworks
-
-<p align="left">
+<h3 align="center">Frontend Languages & Frameworks</h3>
+<p align="center">
     <img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
     <img alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
     <img alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -26,9 +25,8 @@ With that in mind, welcome to my GitHub page where I put my personal and profess
     <img alt="ViteJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" />
 </p>
 
-### Backend Languages & Frameworks
-
-<p align="left">
+<h3 align="center">Backend Languages & Frameworks</h3>
+<p align="center">
     <img alt="PHP" width="30px" 
     style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
@@ -37,9 +35,8 @@ With that in mind, welcome to my GitHub page where I put my personal and profess
     <img alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </p>
 
-### Other Technologies
-
-<p align="left">
+<h3 align="center">Other Technologies</h3>
+<p align="center">
     <img alt="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
     <img alt="MatPlotLib" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
     <img alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -49,7 +46,7 @@ With that in mind, welcome to my GitHub page where I put my personal and profess
 
 ## 🧰 Development Software and Tools
 
-<p align="left">
+<p align="center">
     <img alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img alt="IntelliJ" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
     <img alt="Jupyter Notebook" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
@@ -61,9 +58,12 @@ With that in mind, welcome to my GitHub page where I put my personal and profess
 
 ## 📊 Stats and Progression
 
-<img alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeyabyab&theme=default" />
+<p align="center">
+    <img alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeyabyab&theme=default" />
+    <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeyabyab" alt="codeyabyab" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codeyabyab" alt="codeyabyab" />
 
 <br/>
 
