@@ -2,7 +2,7 @@
 
 **`AI Operations & Data Specialist | Back-Office Operations Professional | Web Development Hobbyist`**
 
-Hello, I'm a tech professional with 3+ years' worth of work experience in data annotation, social media content evaluation, and back-office operations alongside a passion for artificial intelligence (AI) and web development. I'm very passionate about contributing to innovative projects and initiatives that push the boundaries of technology. 
+Hello, I'm a tech professional with 3+ years' worth of work experience in data annotation, social media content evaluation, and back-office operations alongside a passion for artificial intelligence (AI) and web development. I'm very passionate about contributing to innovative projects and initiatives that push the boundaries of technology.
 
 With that in mind, welcome to my GitHub page where I put my personal and professional coding projects. I hope that we collaborate soon.
 <br/>
@@ -30,15 +30,19 @@ With that in mind, welcome to my GitHub page where I put my personal and profess
     <img alt="PHP" width="30px" 
     style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
-    <img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </p>
 
-<h3 align="center">Other Technologies</h3>
+<h3 align="center">Data Analysis</h3>
 <p align="center">
+    <img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img alt="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
     <img alt="MatPlotLib" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
+</p>
+
+<h3 align="center">Other Technologies</h3>
+<p align="center">
     <img alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </p>
 
@@ -64,7 +68,6 @@ With that in mind, welcome to my GitHub page where I put my personal and profess
     <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeyabyab" alt="codeyabyab" />
 </p>
-
 
 <br/>
 
